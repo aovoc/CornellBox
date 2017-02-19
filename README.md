@@ -21,6 +21,7 @@ $ make
 
 ## Obj model material info
   describe in corresponding .mtl file in 'res' folder.
+  
   the information contains:
   - material type(mtl_type): REFR, DIFF, SPEC
   - material color(color)
