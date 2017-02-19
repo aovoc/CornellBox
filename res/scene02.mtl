@@ -1,0 +1,54 @@
+newmtl initialShadingGroup
+mtl_type DIFF
+color 0.4 0.4 0.4
+
+
+newmtl lambert2SG
+mtl_type DIFF
+color 0 0 0 
+Ke 901.803 901.803 901.803
+
+
+newmtl lambert3SG
+mtl_type DIFF
+color 0 0 0
+Ke 1.23457 1.23457 1.23457
+
+
+newmtl lambert4SG
+mtl_type DIFF
+color 0 0 0 
+Ke 11.1111 11.1111 11.1111
+
+newmtl lambert5SG
+mtl_type DIFF
+color 0 0 0 
+Ke 100 100 100
+
+
+newmtl mia_material_x_passes1SG
+mtl_type ROUGHPLASTIC
+color 0.07 0.09 0.13
+alpha 0.005
+
+
+newmtl mia_material_x_passes4SG
+mtl_type ROUGHPLASTIC
+color 0.07 0.09 0.13
+alpha 0.02
+
+
+newmtl mia_material_x_passes2SG
+mtl_type ROUGHPLASTIC
+color 0.07 0.09 0.13
+alpha 0.05
+
+
+newmtl mia_material_x_passes3SG
+mtl_type ROUGHPLASTIC
+color 0.07 0.09 0.13
+alpha 0.1
+
+
+
+

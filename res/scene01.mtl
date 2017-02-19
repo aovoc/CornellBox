@@ -1,0 +1,67 @@
+newmtl blinn1SG
+mtl_type REFR
+color 0.999 0.999 0.999
+illum 4
+Kd 0.52 0.52 0.52
+Ka 0.27 0.27 0.27
+Tf 0.00 0.00 0.00
+Ni 1.80
+Ks 1.00 1.00 1.00
+
+newmtl blinn2SG
+mtl_type DIFF
+color 0 0 0
+Ke 40.0 40.0 40.0
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.78 0.78 0.78
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+
+newmtl initialShadingGroup
+mtl_type DIFF
+color 0.75 0.75 0.75
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+
+newmtl lambert2SG
+mtl_type DIFF
+color 0.75 0.25 0.25
+illum 4
+Kd 1.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+
+newmtl lambert3SG
+mtl_type DIFF
+color 0.25 0.25 0.75
+illum 4
+Kd 0.00 0.01 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+
+newmtl mia_material_x1SG
+mtl_type SPEC
+color 0.999 0.999 0.999
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+
+
+newmtl lamber1SG
+mtl_type DIFF
+color 0 0 0
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+
